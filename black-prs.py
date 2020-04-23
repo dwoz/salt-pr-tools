@@ -1,17 +1,9 @@
 import os
-import json
-import re
 import requests
 import pprint
-import datetime
 import logging
-import time
-import functools
-import hmac
-import hashlib
-import subprocess
-import lib
 import sys
+import lib
 
 
 log = logging.getLogger(__name__)
